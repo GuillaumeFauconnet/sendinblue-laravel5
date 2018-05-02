@@ -12,7 +12,7 @@ In order to install, add the following to your `composer.json` file within the `
 ```js
 "require": {
     …
-    "vansteen/sendinblue": "dev-master"
+    "GuillaumeFauconnet/sendinblue-laravel5": "dev-master"
     …
 }
 ```
