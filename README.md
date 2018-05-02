@@ -12,7 +12,7 @@ In order to install, add the following to your `composer.json` file within the `
 ```js
 "require": {
     …
-    "GuillaumeFauconnet/sendinblue-laravel5": "dev-master"
+    "guillaumefauconnet/sendinblue-laravel5": "dev-master"
     …
 }
 ```
@@ -23,7 +23,7 @@ Add the following to the `providers` array:
 ```php
 'providers' => array(
     …
-    'Vansteen\Sendinblue\SendinblueServiceProvider',
+    'guillaumefauconnet\sendinblue-laravel5\SendinblueServiceProvider',
     …
 ),
 ```
@@ -33,7 +33,7 @@ Furthermore, add the following the the `aliases` array:
 ```php
 'aliases' => array(
     …
-    'SendinblueWrapper' => 'Vansteen\Sendinblue\Facades\SendinBlueWrapper',
+    'SendinblueWrapper' => 'guillaumefauconnet\sendinblue-laravel5\Facades\SendinBlueWrapper',
     …
 ),
 ```
