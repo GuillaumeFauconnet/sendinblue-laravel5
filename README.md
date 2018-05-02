@@ -23,7 +23,7 @@ Add the following to the `providers` array:
 ```php
 'providers' => array(
     …
-    'guillaumefauconnet\sendinblue-laravel5\SendinblueServiceProvider',
+    'CompagnieFiduciaire\Sendinblue\SendinblueServiceProvider',
     …
 ),
 ```
@@ -33,7 +33,7 @@ Furthermore, add the following the the `aliases` array:
 ```php
 'aliases' => array(
     …
-    'SendinblueWrapper' => 'guillaumefauconnet\sendinblue-laravel5\Facades\SendinBlueWrapper',
+    'SendinblueWrapper' => 'CompagnieFiduciaire\Sendinblue\Facades\SendinBlueWrapper',
     …
 ),
 ```

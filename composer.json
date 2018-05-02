@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-0": {
-            "guillaumefauconnet\\sendinblue-laravel5\\": "src/"
+            "CompagnieFiduciaire\\Sendinblue\\": "src/"
         }
     },
     "minimum-stability": "stable"
