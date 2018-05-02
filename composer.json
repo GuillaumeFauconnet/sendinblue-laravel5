@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-0": {
-            "sendinbluecf\\sendinblue\\": "src/"
+            "CF\\sendinblue\\": "src/"
         }
     },
     "minimum-stability": "stable"
