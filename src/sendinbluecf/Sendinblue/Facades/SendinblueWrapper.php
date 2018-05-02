@@ -1,4 +1,4 @@
-<?php namespace Vansteen\Sendinblue\Facades;
+<?php namespace guillaumefauconnet\sendinblue-laravel5\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
