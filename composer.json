@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-0": {
-            "CF\\sendinblue\\": "src/"
+            "guillaumefauconnet\\sendinblue-laravel5\\": "src/"
         }
     },
     "minimum-stability": "stable"
