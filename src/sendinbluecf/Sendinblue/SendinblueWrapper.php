@@ -1,4 +1,4 @@
-<?php namespace Vansteen\Sendinblue;
+<?php namespace guillaumefauconnet\sendinblue-laravel5;
 
 use Sendinblue\Mailin;
 
