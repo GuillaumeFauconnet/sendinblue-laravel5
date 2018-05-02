@@ -1,5 +1,5 @@
 {
-    "name": "vansteen/sendinblue",
+    "name": "GuillaumeFauconnet/sendinblue-laravel5",
     "description": "A Laravel 5 (and Laravel 4) wrapper for the SendInBlue API PHP class (as provided by SendInBlue)",
     "keywords": ["laravel", "sendinblue"],
     "license": "MIT",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Vansteen\\Sendinblue\\": "src/"
+            "sendinbluecf\\sendinblue\\": "src/"
         }
     },
     "minimum-stability": "stable"
